@@ -1,0 +1,22 @@
+name,group,expectation,detail,why
+Bosun Tijani,known alumnus,CONFIRMED_SUBMIT,,Methodology report test case: WBS alumnus and Nigerian minister
+Jeremy Wright,known non-alumnus,NEVER_CONFIRMED_OR_PROBABLE,,Reviewer: did not study at WBS; earlier evidence was namesakes and a Warwick staff role
+Kemi Badenoch,known non-alumnus,NEVER_CONFIRMED_OR_PROBABLE,,Reviewer: Wikipedia says she did not get into Warwick (negated mention)
+Giulio Nardella,namesake case,NO_NAMESAKE_COUNTED,,Earlier evidence was about Irina Surdu-Nardella
+Nigel Wilson,namesake case,NO_NAMESAKE_COUNTED,,Earlier evidence was about Hugh Wilson
+Judith Clegg,namesake case,NO_NAMESAKE_COUNTED,,Earlier evidence named Stuart Clegg and Andrew Clegg
+Anmol Ambani,namesake case,NO_NAMESAKE_COUNTED,,Earlier evidence named Anil and Dhirubhai Ambani
+David Parker,namesake case,NO_NAMESAKE_COUNTED,,Earlier evidence named Luke Parker
+Judy Haiven,shared bio page,NO_COUNTED_QUOTE_ABOUT,Larry,Each Haiven was credited with the other's PhD
+Larry Haiven,shared bio page,NO_COUNTED_QUOTE_ABOUT,Judy,Each Haiven was credited with the other's PhD
+Qing Wang,WBS staff,STAFF_NOT_IN_BROADER,,Graded mainly from teaching or staff quotes
+Ruowen Xu,WBS staff,STAFF_NOT_IN_BROADER,,Graded mainly from teaching or staff quotes
+Umar Taj,WBS staff,STAFF_NOT_IN_BROADER,,Graded mainly from teaching or staff quotes
+Wendy Alexander,namesake case,NO_NAMESAKE_COUNTED,,The only WBS staff quote was about Alexander Montag (a different person); her Warwick degree is an MA and her MBA is from INSEAD
+Sotirios Paroutis,WBS staff,STAFF_NOT_IN_BROADER,,Graded mainly from teaching or staff quotes
+Irina Surdu-Nardella,WBS staff,NOT_GRADED_ON_STAFF_QUOTES,,Graded mainly from teaching or staff quotes
+Waqar Ahmed,WBS staff,NOT_GRADED_ON_STAFF_QUOTES,,Graded mainly from teaching or staff quotes
+Nikos Mylonopoulos,WBS staff,NOT_GRADED_ON_STAFF_QUOTES,,Graded mainly from teaching or staff quotes
+Juan Pablo Torres,WBS staff,NOT_GRADED_ON_STAFF_QUOTES,,Graded mainly from teaching or staff quotes
+Stephen Cummings,WBS staff,NOT_GRADED_ON_STAFF_QUOTES,,Graded mainly from teaching or staff quotes
+Andrea Leadsom,department check,DEPT_WARWICK_NOT_WBS,political science,Degree in political science at Warwick is not WBS

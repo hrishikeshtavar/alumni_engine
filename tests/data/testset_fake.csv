@@ -1,0 +1,4 @@
+name,group,expectation,detail,why
+Ama Mensah-Doe,known alumnus,CONFIRMED_SUBMIT,,Invented test person: minister with an official bio naming WBS
+Kofi Namesake,known non-alumnus,NEVER_CONFIRMED_OR_PROBABLE,,Invented test person with no Warwick link
+Grace Otherdept,department check,NEVER_CONFIRMED_OR_PROBABLE,,Invented: studied at WMG
